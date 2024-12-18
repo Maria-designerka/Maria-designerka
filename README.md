@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maria-designerka
-- 👀 I’m interested in Product Design
-- 🌱 I’m currently learning Interaction Design and Web Development at George Brown College
+- 👀 I’m specialize in digital Product design for multiple devices, Webflow development, and branding.
+- 🌱 I’m a UX/UI Product Designer and Webflow Developer based in Canada, with of experience crafting exceptional digital experiences.
 - 💞️ I’m looking to collaborate on the social media app
 - 📫 maria.designerka@gmail.com
 
